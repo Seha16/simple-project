@@ -12,3 +12,6 @@ print (d)
 # calc e
 e = 9
 
+# calc f
+f = e - d
+
