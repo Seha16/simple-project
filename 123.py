@@ -8,3 +8,7 @@ print (c)
 print (c + a)
 d = 4 - 3
 print (d)
+
+# calc e
+e = 9
+
