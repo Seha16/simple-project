@@ -14,4 +14,6 @@ e = 9
 
 # calc f
 f = e - d
+f = f - 2
+e = 2 * b
 
